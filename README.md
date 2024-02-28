@@ -415,5 +415,7 @@ Will be updated soon
 }
 
 ```
-
+<img src="https://github.com/ElangovanChelliah/PIC18-0.96Inch-TFT-LCD-Display-Interface/blob/257e55ca0a5c439446fb094bbbb32a90f9930fb8/Output_2.jpg" width="600">
 <img src="https://github.com/ElangovanChelliah/PIC18-0.96Inch-TFT-LCD-Display-Interface/blob/0948c7bd6216744c7700121284c22d76c24141b0/Output_1.jpg" width="1100">
+
+
