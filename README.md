@@ -47,11 +47,15 @@ System Design:
 
 The designed schematics use a direct circuit connection as per the pin diagram with a voltage regulator for module testing, the integrated applications can use the same schematics connected to the common voltage source of 3.3V, the varied voltage ranging from 3V to 3.6V results in different peak brightness, a PWM signal also can be used to control the brightness, Altium designer is used to layout the circuit. The schematics can be transformed to desired layouts like module or custom hardware. 
 
+Will be updated soon
+
 <img src="https://github.com/ElangovanChelliah/PIC16-1.3Inch-OLED-Interface/blob/7bf8ae4249119983b670ed0e5f937535a9344fe7/Schematics.pn" width="600">
 
 <img src="https://github.com/ElangovanChelliah/PIC16-1.3Inch-OLED-Interface/blob/fb46c0077c1c229d86bac8b4fa5d2c523bebb977/1.3%20Inch%20OLED.pn" width="300">
 
 ### Pin Diagram
+
+Will be updated soon
 
 <img src="https://github.com/ElangovanChelliah/PIC16-1.3Inch-OLED-Interface/blob/b93f52e42c382b0f1b97d97665717313e876241a/Pin%20Diagram.pn" width="400">
 
@@ -59,6 +63,8 @@ The designed schematics use a direct circuit connection as per the pin diagram w
 MPLAB X IDE is used to design and develop firmware and software, copy the project files [here](https://github.com/ElangovanChelliah/PIC16-1.3Inch-OLED-Interface/tree/3b928b85792c1b3a9fc59a058e2cbee1c41ed1a5/Firmware), and execute the same to get the desired output, from the example in this project a library is created and LOGO is used to demonstrate the functionality.
 
 Example:
+Will be updated soon
+
 ```c
 void ST7735S_Init(void){
         
@@ -231,6 +237,7 @@ void ST7735S_Init(void){
 ```
 
 ### ST7735S Library for SPI
+Will be updated soon
 
 ```c
 
@@ -404,20 +411,7 @@ Example:
 This is a simple example for displaying the example font, initialize the library, initialize the display, clear the display and display the custom font.
 ```c
 //****main.c****//
-#include "mcc_generated_files/mcc.h"
-#include "mcc_generated_files/pin_manager.h"
-#include "SH1106_Lib/myOLED_SH1106.h"
-
-void main(void)
-{
-    //initialize the device
-    SYSTEM_Initialize();
-
-    __delay_ms(500);
-    
-    SH1106_init();
-    SH1106_Clear_Screen(0x00);
-    SH1106_Display(char);
+Will be updated soon
 }
 
 ```
