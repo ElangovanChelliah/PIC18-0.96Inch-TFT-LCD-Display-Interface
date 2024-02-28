@@ -416,4 +416,4 @@ Will be updated soon
 
 ```
 
-<img src="https://github.com/ElangovanChelliah/PIC16-1.3Inch-OLED-Interface/blob/aaa293a598f0cbdf646f21cc152dbaaec0948218/Output.jp" width="1100">
+<img src="https://github.com/ElangovanChelliah/PIC18-0.96Inch-TFT-LCD-Display-Interface/blob/0948c7bd6216744c7700121284c22d76c24141b0/Output_1.jpg" width="1100">
